@@ -1,0 +1,57 @@
+{
+  "_from": "nodebb-plugin-composer-redactor@^3.2.0",
+  "_id": "nodebb-plugin-composer-redactor@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-/WyKPYQoFPz/LybqmdgjTFW+Um4JZzpalab0/QXIwqo9QxtrH/nuimOOYuCYfR7HNTGmnc7cze+hM4TUwvetHQ==",
+  "_location": "/nodebb-plugin-composer-redactor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "nodebb-plugin-composer-redactor@^3.2.0",
+    "name": "nodebb-plugin-composer-redactor",
+    "escapedName": "nodebb-plugin-composer-redactor",
+    "rawSpec": "^3.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-composer-redactor/-/nodebb-plugin-composer-redactor-3.2.0.tgz",
+  "_shasum": "106d6be9d8070fcd9bf79aebb2850705a4ffe6c2",
+  "_spec": "nodebb-plugin-composer-redactor@^3.2.0",
+  "_where": "D:\\nodebb\\NodeBB",
+  "author": {
+    "name": "NodeBB Team",
+    "email": "sales@nodebb.org"
+  },
+  "bugs": {
+    "url": "https://github.com/NodeBB/nodebb-plugin-composer-redactor/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "sanitize-html": "^1.7.2"
+  },
+  "deprecated": false,
+  "description": "Redactor Composer for NodeBB",
+  "homepage": "https://github.com/NodeBB/nodebb-plugin-composer-redactor#readme",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "composer",
+    "redactor"
+  ],
+  "license": "http://imperavi.com/redactor/license/",
+  "main": "library.js",
+  "name": "nodebb-plugin-composer-redactor",
+  "nbbpm": {
+    "compatibility": "^1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeBB/nodebb-plugin-composer-redactor.git"
+  },
+  "version": "3.2.0"
+}
